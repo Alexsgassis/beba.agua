@@ -78,7 +78,7 @@ main {
 
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 550px) {
     main {
         width: 60%;
     }
